@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #4ad57a;
+}
+
+p {
+	margin-top: 8px;
+	padding: 12px;
+}
+
+strong {
+	font-size: larger;
+}
